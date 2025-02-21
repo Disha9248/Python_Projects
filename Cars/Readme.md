@@ -1,3 +1,3 @@
 # Cars Analysis | Data Cleaning Project
 
-![Car image](https://github.com/user-attachments/assets/30dcd727-781d-4d0c-9d4e-d95f14356806)
+![Car Image](https://github.com/user-attachments/assets/f83f11a8-251f-49eb-9d96-930cfc589fd4)
