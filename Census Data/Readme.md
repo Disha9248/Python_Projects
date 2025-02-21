@@ -1,3 +1,3 @@
 # Census Data Analysis | Project
 
-![Census_Image](https://github.com/user-attachments/assets/0faca9f2-9a81-47b6-8407-0a0007abbdad)
+![Census Image](https://github.com/user-attachments/assets/fd28b693-3e1d-47de-b77a-340fd4ef6a32)
