@@ -11,12 +11,15 @@ The project demonstrates the use of Pandas to analyze data of cars. This type of
 - Understand how to calculate and manipulate data in a real-world dataset.
 - Develop skills for performance analysis using Pandas by solving different types of data problems related to user performance.
 
+
 ## Project Level: Beginner
 This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used Pandas library to solve different tasks that are commonly encountered in data analytics.
+
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
  - **Dataset Link**: [Cars Dataset](https://www.kaggle.com/datasets/niteshsahu99/cars-data1/data)
+
 
 ## Dataset Columns
 Dataset contains total 15 columns namely :
@@ -35,6 +38,7 @@ Dataset contains total 15 columns namely :
 - Weight
 - Wheelbase
 - Length
+  
 
 ### SQL Problems and Questions
 Here are the SQL problems that I have solved as part of this project:
@@ -51,15 +55,15 @@ Here are the SQL problems that I have solved as part of this project:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase all the values of 'MPG_City' column by 3.
 
 
-## The Commands That We Used In This Project 
+## The Commands That Are Used In This Project 
 
-`import pandas as pd` - To import Pandas library<br>
-`pd.read_csv` - To import the CSV file in Jupyter notebook<br>
-`head()` - It shows the first N rows in the data (by default, N=5)<br>
-`shape` - It shows the total no. of rows and no. of columns of the dataframe<br>
-`df.isnull().sum()` - It detects the missing values from each column of the dataframe.<br>
-`fillna()` - To fill the null values of a column with some particular value<br>
-`value_counts` - In a column, it shows all the unique values with their count. It can be applied to a single column only.<br>
+- `import pandas as pd` - To import Pandas library<br>
+- `pd.read_csv` - To import the CSV file in Jupyter notebook<br>
+- `head()` - It shows the first N rows in the data (by default, N=5)<br>
+- `shape` - It shows the total no. of rows and no. of columns of the dataframe<br>
+- `df.isnull().sum()` - It detects the missing values from each column of the dataframe.<br>
+- `fillna()` - To fill the null values of a column with some particular value<br>
+- `value_counts` - In a column, it shows all the unique values with their count. It can be applied to a single column only.<br>
 
 
 ## Conclusion
