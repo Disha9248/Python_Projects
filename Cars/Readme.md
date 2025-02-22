@@ -39,7 +39,8 @@ Dataset contains total 15 columns namely :
 ### SQL Problems and Questions
 Here are the SQL problems that I have solved as part of this project:
 
-#### Q1) For Data Cleaning - <br>Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.
+#### Q1) For Data Cleaning - <br>
+<pre><pre><pre>Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.
 #### Q2) Based on Value Counts - <br>
          Check what are the different types of Make are there in our dataset.what is the count (occurrence) of each Make in the data?
 #### Q3) Filtering - <br>
