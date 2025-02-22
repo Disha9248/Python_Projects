@@ -40,15 +40,15 @@ Dataset contains total 15 columns namely :
 Here are the SQL problems that I have solved as part of this project:
 
 #### Q1) For Data Cleaning - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.<br>
 #### Q2) Based on Value Counts - <br>
-         Check what are the different types of Make are there in our dataset.what is the count (occurrence) of each Make in the data?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check what are the different types of Make are there in our dataset.what is the count (occurrence) of each Make in the data?
 #### Q3) Filtering - <br>
-         Show all the records where Origin is Asia or Europe.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Show all the records where Origin is Asia or Europe.
 #### Q4) Removing unwanted records - <br>
-         Remove all the records (rows) where Weight is above 4000.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove all the records (rows) where Weight is above 4000.
 #### Q5) Applying function on a column - <br>
-         Increase all the values of 'MPG_City' column by 3.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase all the values of 'MPG_City' column by 3.
 
 
 ## The Commands That We Used In This Project 
