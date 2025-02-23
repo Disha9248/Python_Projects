@@ -22,7 +22,9 @@ The data for this project is sourced from the Kaggle dataset:
  - **Dataset Link**: [India Census 2011](https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)
 
 
-### SQL Problems and Questions
+
+
+## SQL Problems and Questions
 Here are the SQL problems that I have solved as part of this project:
 
 #### Q1) How will you hide the indexes of the dataframe.
@@ -37,6 +39,8 @@ Here are the SQL problems that I have solved as part of this project:
 #### Q7b) Add a Prefix to the column names.
 
 
+
+
 ## The Commands That Are Used In This Project 
 
 - `import pandas as pd` - To import Pandas library<br>
@@ -48,7 +52,7 @@ Here are the SQL problems that I have solved as part of this project:
 - `style.set_caption` - To give a caption to the dataframe.
 - `isin()` - To show all records including particular elements.
 - `groupby(‘Col_1’)[‘Col_2’] .sum()[‘value’]` - GroupBy Two Keys.
-- `df[df.Col_1 == 'Element1']['Col_2']` - Filtering - Filter the records of the dataframe wrt to Element1 of Col1 and then showing results of Col2 only.
+- `df[df.Col_1 == 'Element1']['Col_2']` - Filter the records of the dataframe wrt to Element1 of Col1 and then showing results of Col2 only.
 - `set_index( ‘Col_Name’ )` - To set any column of a DF as an index.
 - `add_prefix(‘value_’)` - To add prefix to the column name.
 - `add_suffix(‘_value’)` - To add suffix to the column name.
