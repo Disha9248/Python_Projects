@@ -19,7 +19,7 @@ This project is a beginners level project.To get me familiar with the basics of 
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
- - **Dataset Link**: (https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)
+ - **Dataset Link**: [India Census 2011](https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)
 
 
 ### SQL Problems and Questions
