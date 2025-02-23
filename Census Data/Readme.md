@@ -36,11 +36,9 @@ Here are the SQL problems that I have solved as part of this project:
 #### Q5) How many Male Workers were there in Maharashtra state ?
 #### Q6) How to set a column as index of the dataframe ?
 #### Q7a) Add a Suffix to the column names.
-#### Q7b) Add a Prefix to the column names.
+#### Q7b) Add a Prefix to the column names.<br><br>
 
 
-
-<br><br>
 ## The Commands That Are Used In This Project 
 
 - `import pandas as pd` - To import Pandas library<br>
@@ -55,7 +53,7 @@ Here are the SQL problems that I have solved as part of this project:
 - `df[df.Col_1 == 'Element1']['Col_2']` - Filter the records of the dataframe wrt to Element1 of Col1 and then showing results of Col2 only.
 - `set_index( ‘Col_Name’ )` - To set any column of a DF as an index.
 - `add_prefix(‘value_’)` - To add prefix to the column name.
-- `add_suffix(‘_value’)` - To add suffix to the column name.
+- `add_suffix(‘_value’)` - To add suffix to the column name.<br><br>
 
 
 ## Conclusion
