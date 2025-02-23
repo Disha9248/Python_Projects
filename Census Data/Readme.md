@@ -19,7 +19,7 @@ This project is a beginners level project.To get me familiar with the basics of 
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
- - **Dataset Link**: [India Census 2011](https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)
+ - **Dataset Link**: [India Census 2011](https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)<br><br>
 
 
 
@@ -40,7 +40,7 @@ Here are the SQL problems that I have solved as part of this project:
 
 
 
-
+<br><br>
 ## The Commands That Are Used In This Project 
 
 - `import pandas as pd` - To import Pandas library<br>
