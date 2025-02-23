@@ -10,7 +10,7 @@ This project aims to analyze India’s census data to uncover trends in populati
 ## Objectives
 - Learn how to use Python for data analysis tasks such as aggregation, filtering, and ranking.
 - Understand how to calculate and manipulate data in a real-world dataset.
-- Develop skills for performance analysis using Pandas by solving different types of data problems related to user performance.
+- Analyze population distribution across states and districts.
 
 
 ## Project Level: Beginner
@@ -19,41 +19,22 @@ This project is a beginners level project.To get me familiar with the basics of 
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
- - **Dataset Link**: [Cars Dataset](https://www.kaggle.com/datasets/niteshsahu99/cars-data1/data)
+ - **Dataset Link**: (https://www.kaggle.com/datasets/niteshsahu99/india-census-2011)
 
-
-## Dataset Columns
-Dataset contains total 15 columns namely :
-- Make
-- Model
-- Type
-- Origin
-- Drive Train
-- MSRP
-- Invoice
-- Engine Size
-- Cylinders
-- Horsepowers
-- MPG_City
-- MPG_Highway
-- Weight
-- Wheelbase
-- Length
-  
 
 ### SQL Problems and Questions
 Here are the SQL problems that I have solved as part of this project:
 
-#### Q1) For Data Cleaning - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.<br>
-#### Q2) Based on Value Counts - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check what are the different types of Make are there in our dataset.what is the count (occurrence) of each Make in the data?
-#### Q3) Filtering - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Show all the records where Origin is Asia or Europe.
-#### Q4) Removing unwanted records - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove all the records (rows) where Weight is above 4000.
-#### Q5) Applying function on a column - <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Increase all the values of 'MPG_City' column by 3.
+#### Q1) How will you hide the indexes of the dataframe.
+#### Q2) How can we set the caption / heading on the dataframe.
+#### Q3) Show the records related with the districts - New Delhi , Lucknow , Jaipur.
+#### Q4) Calculate state-wise :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Total number of population.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Total no. of the population with different religions.
+#### Q5) How many Male Workers were there in Maharashtra state ?
+#### Q6) How to set a column as index of the dataframe ?
+#### Q7a) Add a Suffix to the column names.
+#### Q7b) Add a Prefix to the column names.
 
 
 ## The Commands That Are Used In This Project 
@@ -62,9 +43,15 @@ Here are the SQL problems that I have solved as part of this project:
 - `pd.read_csv` - To import the CSV file in Jupyter notebook<br>
 - `head()` - It shows the first N rows in the data (by default, N=5)<br>
 - `shape` - It shows the total no. of rows and no. of columns of the dataframe<br>
-- `df.isnull().sum()` - It detects the missing values from each column of the dataframe.<br>
-- `fillna()` - To fill the null values of a column with some particular value<br>
-- `value_counts` - In a column, it shows all the unique values with their count. It can be applied to a single column only.<br>
+- `info()` - To show full information about the dataset.
+- `style.hide_index()` - To hide the index of the dataframe.
+- `style.set_caption` - To give a caption to the dataframe.
+- `isin()` - To show all records including particular elements.
+- `groupby(‘Col_1’)[‘Col_2’] .sum()[‘value’]` - GroupBy Two Keys.
+- `df[df.Col_1 == 'Element1']['Col_2']` - Filtering - Filter the records of the dataframe wrt to Element1 of Col1 and then showing results of Col2 only.
+- `set_index( ‘Col_Name’ )` - To set any column of a DF as an index.
+- `add_prefix(‘value_’)` - To add prefix to the column name.
+- `add_suffix(‘_value’)` - To add suffix to the column name.
 
 
 ## Conclusion
