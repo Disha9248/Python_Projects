@@ -67,13 +67,13 @@ Here are the SQL problems that I have solved as part of this project:
 - `shape` - It shows the total no. of rows and no. of columns of the dataframe<br>
 - `df.isnull().sum()` - It detects the missing values from each column of the dataframe.<br>
 - `dropna()` - To drop the column with null value<br>
-- `value_counts` - In a column, it shows all the unique values with their count. It can be applied to a single column only.<br>
-- `sort_values` - It sort values in ascending and descending orders. Sort the entire dataframe by the values of the given column.<br>
+- `value_counts()` - In a column, it shows all the unique values with their count. It can be applied to a single column only.<br>
+- `sort_values()` - It sort values in ascending and descending orders. Sort the entire dataframe by the values of the given column.<br>
 - `df.groupby([column])[column].sum()` - To form groups of all unique values of the column and than sum it.<br>
 - `import seaborn as sns` - To import the Seaborn library.<br>
 - `import matplotlib.pyplot as plt` - To import the Matplotlib library.<br>
-- `sns.barplot` - To plot bar graphs.<br>
-- `sns.set` - To set the size of graphs.<br>
+- `sns.barplot()` - To plot bar graphs.<br>
+- `sns.set()` - To set the size of graphs.<br>
 
 
 ## Conclusion
