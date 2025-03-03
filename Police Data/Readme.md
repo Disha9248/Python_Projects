@@ -51,8 +51,15 @@ Here are the SQL problems that I have solved as part of this project:
 
 ## Conclusion
 
-For Speeding Violation men are caught most.
 This project provides an excellent opportunity for me as a beginners to gain Pandas knowledge to solve practical data problems. By working through these Python queries, I gain hands-on experience with data cleaning, filtering, date manipulation, and conditional logic.
+
+- Removed columns containing only missing values to ensure accurate analysis.
+- Analyzed whether men or women were stopped more frequently for speeding violations.
+- Examined the impact of gender on search likelihood during a traffic stop.
+- Calculated the average stop duration to understand how long traffic stops typically last.
+- Compared the age distribution for different traffic violations to identify trends among different age groups.
+  
+This analysis helps in understanding law enforcement patterns, potential biases, and the overall effectiveness of traffic regulations.
 
 
 
