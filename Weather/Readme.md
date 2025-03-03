@@ -8,12 +8,10 @@ This project analyzes weather data to identify trends in temperature, precipitat
 
 
 ## Objectives
-- Analyze temperature and precipitation trends over time.
-- Detect patterns in extreme weather events (heatwaves, storms, floods).
-- Compare seasonal variations across different regions.
+- Analyze temperature conditions.
+- Analyze the wind speed and visibility.
 - Learn how to use Python for data analysis tasks such as aggregation, filtering, and ranking.
 - Understand how to calculate and manipulate data in a real-world dataset.
-- Develop skills for performance analysis using Pandas by solving different types of data problems related to user performance.
 
 
 ## Project Level: Beginner
@@ -40,7 +38,7 @@ Dataset contains total 8 columns namely :
 ## SQL Problems and Questions
 Here are the SQL problems that I have solved as part of this project:
 
-#### Q1)  Find all the unique 'Wind Speed' values in the data.
+#### Q1) Find all the unique 'Wind Speed' values in the data.
 #### Q2) Find the number of times when the 'Weather is exactly Clear'.
 #### Q3) Find the number of times when the 'Wind Speed was exactly 4 km/h'.
 #### Q4) Find out all the Null Values in the data.
@@ -75,5 +73,26 @@ Here are the SQL problems that I have solved as part of this project:
 
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain Pandas knowledge to solve practical data problems. By working through these Python queries, I gain hands-on experience with data cleaning, filtering, date manipulation, and conditional logic.
+
+The weather data analysis provides key insights into various atmospheric conditions and trends. Key findings include:
+
+- Identified unique wind speed values and occurrences of specific speeds, such as 4 km/h.
+- Counted instances when the weather was exactly "Clear."
+- Detected and analyzed null values in the dataset for data cleaning.
+- Renamed the 'Weather' column to 'Weather Condition' for better readability.
+- Calculated the mean visibility, standard deviation of pressure, and variance of relative humidity.
+- Identified instances of snow, fog, and high wind speed with low visibility.
+- Determined minimum, maximum, and mean values of different parameters for each weather condition.
+- Retrieved records where the weather was clear, visibility was high, or relative humidity exceeded 50%.
+- 
+This analysis helps in understanding weather patterns, improving forecasting accuracy, and aiding research in climate trends.
+
+
+
+
+
+
+
+
 
 
