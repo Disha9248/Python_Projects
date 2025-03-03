@@ -63,10 +63,10 @@ This project provides an excellent opportunity for me as a beginners to gain Pan
 
 The COVID-19 data analysis provides critical insights into the spread and impact of the pandemic across different regions. Key findings include:
 
-Regional Impact: Identified the number of confirmed, death, and recovered cases in each region, highlighting areas most affected by COVID-19.
-Data Cleaning: Removed records with confirmed cases less than 10 to ensure meaningful analysis.
-Worst & Least Affected Regions: Determined the region with the highest confirmed cases and the region with the lowest number of deaths.
-India-Specific Analysis: Extracted COVID-19 statistics for India up to April 29, 2020, providing a snapshot of the situation during that period.
-Data Sorting & Organization: Sorted data based on confirmed cases (ascending order) and recovered cases (descending order) to analyze trends effectively.
+Regional Impact: Identified the number of confirmed, death, and recovered cases in each region, highlighting areas most affected by COVID-19.<br>
+Data Cleaning: Removed records with confirmed cases less than 10 to ensure meaningful analysis.<br>
+Worst & Least Affected Regions: Determined the region with the highest confirmed cases and the region with the lowest number of deaths.<br>
+India-Specific Analysis: Extracted COVID-19 statistics for India up to April 29, 2020, providing a snapshot of the situation during that period.<br>
+Data Sorting & Organization: Sorted data based on confirmed cases (ascending order) and recovered cases (descending order) to analyze trends effectively.<br>
 This analysis helps in understanding the pandemic's impact on different regions, aiding policymakers and healthcare professionals in making informed decisions.
 
