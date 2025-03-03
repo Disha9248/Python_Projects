@@ -12,7 +12,6 @@ This project analyzes Udemy course data to uncover trends in course popularity, 
 - Compare free vs. paid courses in terms of ratings and enrollments.
 - Learn how to use Python for data analysis tasks such as aggregation, filtering, and ranking.
 - Understand how to calculate and manipulate data in a real-world dataset.
-- Identify factors influencing property values.
 - Develop skills for performance analysis using Pandas by solving different types of data problems related to user performance.
 
 
@@ -77,5 +76,18 @@ Here are the SQL problems that I have solved as part of this project:
 
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain Pandas knowledge to solve practical data problems. By working through these Python queries, I gain hands-on experience with data cleaning, filtering, date manipulation, and conditional logic.
+
+The Udemy course data analysis provides insights into course offerings, pricing, popularity, and subject trends. Key findings include:
+
+
+- Identified different subjects available on Udemy.
+- Determined which subject has the highest number of courses.
+- Filtered courses based on pricing to analyze availability and accessibility.
+- Listed courses in the Graphic Design category priced below $100.
+- Extracted all courses related to Python, indicating its popularity in online learning.
+- Identified courses published in 2015 to track historical trends.
+- Found the maximum number of subscribers for each course level (beginner, intermediate, advanced).
+- 
+This analysis helps learners and educators understand course trends, pricing strategies, and subject popularity on Udemy, aiding in informed decision-making.
 
 
