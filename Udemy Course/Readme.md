@@ -87,7 +87,7 @@ The Udemy course data analysis provides insights into course offerings, pricing,
 - Extracted all courses related to Python, indicating its popularity in online learning.
 - Identified courses published in 2015 to track historical trends.
 - Found the maximum number of subscribers for each course level (beginner, intermediate, advanced).
-- 
+
 This analysis helps learners and educators understand course trends, pricing strategies, and subject popularity on Udemy, aiding in informed decision-making.
 
 
