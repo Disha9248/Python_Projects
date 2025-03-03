@@ -69,3 +69,10 @@ Here are the SQL problems that I have solved as part of this project:
 This project provides an excellent opportunity for me as a beginners to gain Pandas knowledge to solve practical data problems. By working through these Python queries, I gain hands-on experience with data cleaning, filtering, date manipulation, and conditional logic.
 
 
+
+
+
+
+
+
+
