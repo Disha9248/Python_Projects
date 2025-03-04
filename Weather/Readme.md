@@ -84,7 +84,7 @@ The weather data analysis provides key insights into various atmospheric conditi
 - Identified instances of snow, fog, and high wind speed with low visibility.
 - Determined minimum, maximum, and mean values of different parameters for each weather condition.
 - Retrieved records where the weather was clear, visibility was high, or relative humidity exceeded 50%.
-- 
+  
 This analysis helps in understanding weather patterns, improving forecasting accuracy, and aiding research in climate trends.
 
 
